@@ -32,11 +32,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+A challenge I encountered while while building the app was trying to comprehend the coding topics that I had not seen before throughout the course of the fast-faced video guide.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2016] [CodePath, Inc.]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
